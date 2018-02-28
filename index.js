@@ -1,3 +1,5 @@
+var $ = require('jquery');
+
 exports.activateAutoSave =
     function () {
         var resetTimer = (function () {
