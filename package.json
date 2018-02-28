@@ -1,0 +1,33 @@
+{
+  "name": "@yoerivd/autosave-form",
+  "version": "1.0.0",
+  "description": "This is a generic piece of javascript I wrote that will automatically post the form after the user changes its state. No change on the backend is required.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoeriVD/auto-save-html-form.git"
+  },
+  "keywords": [
+    "save",
+    "auto",
+    "autosave",
+    "html",
+    "form",
+    "http",
+    "post",
+    "javascript",
+    "generic"
+  ],
+  "author": "Yoeri Van Damme",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YoeriVD/auto-save-html-form/issues"
+  },
+  "homepage": "https://github.com/YoeriVD/auto-save-html-form#readme",
+  "peerDependencies": {
+    "jquery": "^3.3.1"
+  }
+}
