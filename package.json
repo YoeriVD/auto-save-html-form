@@ -1,6 +1,6 @@
 {
   "name": "@yoerivd/autosave-form",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a generic piece of javascript I wrote that will automatically post the form after the user changes its state. No change on the backend is required.",
   "main": "index.js",
   "scripts": {
